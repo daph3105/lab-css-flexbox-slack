@@ -1,6 +1,7 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # CSS | Slack clone with Flexbox
+
+[Link to Final Project](https://daph3105.github.io/lab-css-flexbox-slack/starter_code/index.html)
 
 ## Introduction
 
